@@ -1,0 +1,10 @@
+C:\Users\djhut\OneDrive\Documents\UofL School Work\Fall 2021\CIS 199\Programs\Program 2\Program2\Program2\bin\Debug\Program2.exe.config
+C:\Users\djhut\OneDrive\Documents\UofL School Work\Fall 2021\CIS 199\Programs\Program 2\Program2\Program2\bin\Debug\Program2.exe
+C:\Users\djhut\OneDrive\Documents\UofL School Work\Fall 2021\CIS 199\Programs\Program 2\Program2\Program2\bin\Debug\Program2.pdb
+C:\Users\djhut\OneDrive\Documents\UofL School Work\Fall 2021\CIS 199\Programs\Program 2\Program2\Program2\obj\Debug\Program2.csproj.AssemblyReference.cache
+C:\Users\djhut\OneDrive\Documents\UofL School Work\Fall 2021\CIS 199\Programs\Program 2\Program2\Program2\obj\Debug\Program2.Program2.resources
+C:\Users\djhut\OneDrive\Documents\UofL School Work\Fall 2021\CIS 199\Programs\Program 2\Program2\Program2\obj\Debug\Program2.Properties.Resources.resources
+C:\Users\djhut\OneDrive\Documents\UofL School Work\Fall 2021\CIS 199\Programs\Program 2\Program2\Program2\obj\Debug\Program2.csproj.GenerateResource.cache
+C:\Users\djhut\OneDrive\Documents\UofL School Work\Fall 2021\CIS 199\Programs\Program 2\Program2\Program2\obj\Debug\Program2.csproj.CoreCompileInputs.cache
+C:\Users\djhut\OneDrive\Documents\UofL School Work\Fall 2021\CIS 199\Programs\Program 2\Program2\Program2\obj\Debug\Program2.exe
+C:\Users\djhut\OneDrive\Documents\UofL School Work\Fall 2021\CIS 199\Programs\Program 2\Program2\Program2\obj\Debug\Program2.pdb
