@@ -4,10 +4,6 @@ Lab #10
 Date: 3/29/2019
 Description: A program that plays three dimensional tic-tac-toe 
 			 against the user
-
- I'm so sorry you have to look at this
- 
-this wouldve been so much easier if i didnt have to use inheritance but here I am 650 lines later
 */
 
 #include <iostream>
